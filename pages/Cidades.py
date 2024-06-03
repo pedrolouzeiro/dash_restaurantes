@@ -280,7 +280,7 @@ with tab2:
                     x="Average Cost for two", 
                     y="Aggregate rating",
                     text='City',
-                    title='Custo Para Dois vs Avaliação Média por País',
+                    title='Custo Para Dois vs Avaliação Média por Cidade',
                     labels={
                         'Average Cost for two': 'Custo P/ Dois',
                         'Aggregate rating': 'Avaliação Média'
